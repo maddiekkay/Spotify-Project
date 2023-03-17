@@ -1,2 +1,5 @@
 secretspotify.txt
 clientspotify.txt
+.ipynb_checkpoints/
+package-lock.json
+authentication*
